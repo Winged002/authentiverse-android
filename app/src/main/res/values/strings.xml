@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Authentiverse</string>
+    <string name="home">Space</string>
+    <string name="information">Information</string>
+    <string name="ndas">NDAs</string>
+    <string name="contacts">Contacts</string>
+    <string name="privacy">Privacy</string>
+    <string name="enter_area">Enter Area</string>
+    <string name="go_outdoors">Go Outdoors</string>
+    <string name="enroll">Set up identity</string>
+    <string name="add_file">Add protected file</string>
+    <string name="import_package">Import</string>
+    <string name="empty_files">No protected files yet</string>
+    <string name="empty_shared">Nothing has been shared with you yet</string>
+    <string name="empty_ndas">No NDAs yet</string>
+    <string name="empty_contacts">No contacts yet</string>
+    <string name="pending">Pending</string>
+    <string name="accepted">Accepted</string>
+    <string name="declined">Rejected</string>
+</resources>

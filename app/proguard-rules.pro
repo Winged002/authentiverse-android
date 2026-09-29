@@ -1,0 +1,3 @@
+-keep class com.wireguard.android.backend.** { *; }
+-keep class com.wireguard.config.** { *; }
+-keep class pro.digitalspace.android.** { *; }

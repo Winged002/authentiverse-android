@@ -1,0 +1,12 @@
+Digital Space for Android 1.2.0
+
+New application code is Copyright (c) 2026 Digital Space Authors and is
+provided under the MIT License in LICENSE-MIT.
+
+The application links the official WireGuard for Android tunnel artifact:
+https://git.zx2c4.com/wireguard-android/
+Copyright (c) 2017-2026 WireGuard LLC and contributors.
+Its Apache License 2.0 text is provided in COPYING.
+
+The unreferenced upstream source snapshot remains in the bundle for provenance;
+Gradle does not compile it on Windows.
